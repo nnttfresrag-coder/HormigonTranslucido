@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Hormigón Translúcido",
+  "description": "Una simulación interactiva para crear hormigón translúcido mezclando cemento, agua, agregados y fibras ópticas.",
+  "requestFramePermissions": []
+}
